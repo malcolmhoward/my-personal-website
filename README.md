@@ -4,3 +4,4 @@ This is a public/open-source project to document and share my journey developing
 Goals for this site include:
   - Displaying resume/CV
   - Blogging about various personal projects, community service initiatives, and other events/activities of interest
+  - Docker it.
